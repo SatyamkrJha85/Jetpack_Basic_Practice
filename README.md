@@ -4,7 +4,7 @@ This repository contains my practice and learning projects for Jetpack Compose. 
 
 ## Demo Project
 
-![Screenshot 1](https://github.com/SatyamkrJha85/Jetpack_Basic_Practice/assets/111700337/41b6ad3b-c300-4b81-8c20-10c28a6ca754.png width="50%")
+![Screenshot 1](https://github.com/SatyamkrJha85/Jetpack_Basic_Practice/assets/111700337/41b6ad3b-c300-4b81-8c20-10c28a6ca754.png)
 
 ![Screenshot 2](https://github.com/SatyamkrJha85/Jetpack_Basic_Practice/assets/111700337/b6ce3d57-112c-4116-a051-158b75fba062.png)
 
