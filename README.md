@@ -35,4 +35,4 @@ This repository contains my practice and learning projects for Jetpack Compose. 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/jetpack-compose-practice.git
+git clone (https://github.com/SatyamkrJha85/Jetpack_Basic_Practice.git)
